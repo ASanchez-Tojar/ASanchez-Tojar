@@ -7,7 +7,6 @@ I share my code here in my GitHub profile, but you can check out more about my i
 <p align="center">
 	<a href="https://github.com/ASanchez-Tojar"><img src="imgs/github.svg" alt="GitHub"></a>
 	<a href="https://twitter.com/ASanchez_Tojar"><img src="imgs/twitter.svg" alt="Twitter"></a>
-	<a href="https://terrytangyuan.github.io/cv.html"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
 	<a href="https://scholar.google.co.uk/citations?user=Sh-Rjq8AAAAJ&hl=en"><img src="imgs/citations.svg" alt="Citations"></a>
 </p>
 
