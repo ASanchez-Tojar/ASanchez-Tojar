@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Alfredo, an evolutionary ecologist combining evidence synthesis (mostly meta-analyses) and meta-science, with a pinch of empirical studies. I am currently based at Bielefeld University (Germany) and I am a member of the Board of Directors of the Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology (SORTEE), which if you should check out here: https://www.sortee.org/
+I’m Alfredo, an evolutionary ecologist whose research combines evidence synthesis—primarily **meta-analyses**—and **meta-research**, with a touch of empirical studies. I have a soft spot for birds and a strong commitment to Open, Reliable, and Transparent science. I am currently based at Bielefeld University (Germany) and I serve on the Board of Directors of **SORTEE**, where we work to enhance reliability and transparency in science through cultural and institutional changes, which you should check out here: https://www.sortee.org/
 
 I share my code (and data) here in my GitHub profile, but you can check out more about my interests in my profiles:
 
