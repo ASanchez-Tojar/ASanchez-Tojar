@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Alfredo, an evolutionary ecologist whose research combines evidence synthesis—primarily **meta-analyses**—and **meta-research**, with a touch of empirical studies. I have a soft spot for birds and a strong commitment to Open, Reliable, and Transparent science. I am currently based at Bielefeld University (Germany) and I serve on the Board of Directors of **SORTEE**, where we work to enhance reliability and transparency in science through cultural and institutional changes, which you should check out here: https://www.sortee.org/
+I’m Alfredo, an evolutionary ecologist whose research combines evidence synthesis—primarily **meta-analyses**—and **meta-research**, with a touch of empirical studies. I have a soft spot for birds and a strong commitment to Open, Reliable, and Transparent science. I am based at the University of Coimbra (Portugal) and I serve on the Board of Directors of **SORTEE**, where we work to enhance reliability and transparency in science through cultural and institutional changes, which you should check out here: https://www.sortee.org/
 
 I share my code (and data) here, also my [CV](https://github.com/ASanchez-Tojar/ASanchez-Tojar/blob/main/Curriculum_Vitae-Sachez-Tojar_Alfredo_20251002.pdf) in my GitHub profile. You can check out more about my interests in my profiles:
 
